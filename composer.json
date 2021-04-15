@@ -1,0 +1,12 @@
+{
+  "name": "http://mmendoza-rabara.greenriverdev.com/328/hello",
+  "authors": [
+    {
+      "name": "Mark Mendoza",
+      "email": "mmendoza-rabara@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree": "dev-master"
+  }
+}
